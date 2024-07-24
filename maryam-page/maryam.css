@@ -1,0 +1,51 @@
+@import url("../style/_headerStyle.css");
+@import url("../style/all.css");
+body {
+  background-color: #fff;
+}
+.head-nav {
+  background-color: rgb(202, 150, 252);
+}
+.main_page {
+  display: flex;
+  justify-content: space-between;
+  height: 300px;
+}
+.part_img {
+  margin-top: 20px;
+}
+.img {
+  margin-left: 30px;
+  border-radius: 50%;
+  display: flex;
+}
+.text_h1 {
+  margin-top: 70px;
+  margin-left: 60px;
+  font-size: 60px;
+}
+.text {
+  margin-top: 160px;
+  margin-right: 40px;
+  font-size: 20px;
+}
+.head-nav-left ul li:hover {
+  background-color: #e95e93cb;
+}
+.bold {
+  color: rgb(202, 150, 252);
+}
+.main2_page {
+  margin-top: 100px;
+  height: 300px;
+}
+
+.text_h2 {
+  font-size: 30px;
+  padding-left: 20px;
+}
+
+.text-1 {
+  font-size: 20px;
+  padding: 30px 60px;
+}
